@@ -1,2 +1,2 @@
 # docs
-Open Tenure anc Community Server documentation
+Open Tenure and Community Server documentation
